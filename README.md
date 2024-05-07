@@ -205,5 +205,5 @@ minikube stop
 ```
 minikube delete
 ```
-
-This is the first part of a three-part series. Stay tuned for the next installments!
+## To be continued...
+This is the first of a three-part article. Stay tuned for what's next!
